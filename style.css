@@ -115,7 +115,7 @@ body {
     margin-right: 10px;
 }
 
-/* maincontainer */
+/* Maincontainer */
 
 .maincontainer {
     padding: 40px 20px;
@@ -156,7 +156,7 @@ body {
     background-color: #6c72ff;
 }
 
-/* services */
+/* Services */
 
 .services {
     display: flex;
@@ -305,7 +305,7 @@ body {
     padding-top: 10px;
 }
 
-/* user by country */
+/* User By Country */
 
 .userbycountry {
     display: grid;
